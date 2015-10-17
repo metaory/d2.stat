@@ -7,7 +7,7 @@
   ],
   "version": "0.0.4",
   "bin": {
-    "d2.stat": "./bin/d2.stat"
+    "d2.stat": "./bin/d2.stat.js"
   },
   "main": "./lib/d2.stat",
   "preferGlobal": "true",
