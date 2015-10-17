@@ -1,5 +1,5 @@
 # d2.stat
-[![Dependencies Status](https://david-dm.org/metaory/d2.stat)](https://david-dm.org/metaory/d2.stat)
+[![Dependencies Status](https://david-dm.org/metaory/d2.stat.svg)](https://david-dm.org/metaory/d2.stat)
 
 Dota2 Stat History toolkit
 
