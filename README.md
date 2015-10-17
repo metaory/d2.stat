@@ -16,6 +16,6 @@ keeping history of stat changes, since no steam api provide these
  * nodejs
 
 ### Run
-* <code>sudo npm install -g d2.stat</code>
-* <code>d2.stat</code>
+* <code>$ sudo npm install -g d2.stat</code>
+* <code>$ d2.stat</code>
 
