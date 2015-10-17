@@ -10,10 +10,10 @@ keeping history of stat changes, since no steam api provide these
 
 
 ### Requirements
- * redis 2.8 +
+ * redis
  * nodejs
 
 ### Run
-* <code>npm install</code>
-* <code>npm start</code>
+* <code>sudo npm install -g d2.stat</code>
+* <code>d2.stat</code>
 
