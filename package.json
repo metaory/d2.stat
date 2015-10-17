@@ -5,7 +5,7 @@
     "dota",
     "cli"
   ],
-  "version": "0.0.4",
+  "version": "0.0.7",
   "bin": {
     "d2.stat": "./bin/d2.stat.js"
   },
