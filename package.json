@@ -1,0 +1,36 @@
+{
+  "name": "d2.stat",
+  "description": "Dota2 Stat History toolkit",
+  "keywords": [
+    "dota",
+    "cli"
+  ],
+  "version": "0.0.1",
+  "bin": {
+    "d2.stat": "./bin/d2.stat"
+  },
+  "main": "./lib/d2.stat",
+  "preferGlobal": "true",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "inquirer": "^0.10.1",
+    "lodash": "^3.10.1",
+    "promise": "^7.0.4",
+    "redis": "^2.2.3"
+  },
+  "maintainers": [
+    "metaory <metaory@gmail.com>"
+  ],
+  "author": "metaory",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metaory/d2.stat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metaory/d2.stat/issues"
+  },
+  "homepage": "https://github.com/metaory/d2.stat#readme"
+}
