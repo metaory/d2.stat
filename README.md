@@ -1,5 +1,5 @@
 # d2.stat
-[![Join the chat at https://gitter.im/metaory/d2.stat](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/metaory/d2.stat)
+[![Join the chat at https://gitter.im/metaory/d2.stat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/metaory/d2.stat)
 [![Dependencies Status](https://david-dm.org/metaory/d2.stat.svg)](https://david-dm.org/metaory/d2.stat)
 [![Build Status](https://secure.travis-ci.org/metaory/d2.stat.svg)](http://travis-ci.org/metaory/d2.stat)
 
